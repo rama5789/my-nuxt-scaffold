@@ -12,7 +12,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: '/css/googlefonts.css' }
+      { rel: 'stylesheet', href: '/css/googlefonts.css' },
     ],
   },
 
